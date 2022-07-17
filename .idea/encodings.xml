@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/guli_parent/canal_clientedu2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli_parent/common/common_utils/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli_parent/common/service_base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli_parent/common/spring-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli_parent/infrastructure/api-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli_parent/service/service-acl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli_parent/service/service-cms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli_parent/service/service-msm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli_parent/service/service-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli_parent/service/service-oss/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli_parent/service/service-statistics/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli_parent/service/service-ucenter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli_parent/service/service-vod/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli_parent/service/service_edu/src/main/java" charset="UTF-8" />
+  </component>
+</project>

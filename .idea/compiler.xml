@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="canal_clientedu2" />
+        <module name="common_utils" />
+        <module name="service-oss" />
+        <module name="service-cms" />
+        <module name="service-order" />
+        <module name="service-vod" />
+        <module name="service-acl" />
+        <module name="service-msm" />
+        <module name="service-ucenter" />
+        <module name="service-statistics" />
+        <module name="service_base" />
+        <module name="api-gateway" />
+        <module name="service_edu" />
+        <module name="spring-security" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api-gateway" target="1.8" />
+      <module name="canal_clientedu" target="1.8" />
+      <module name="canal_clientedu2" target="1.8" />
+      <module name="common" target="1.8" />
+      <module name="common_utils" target="1.8" />
+      <module name="guli_parent" target="1.8" />
+      <module name="infrastructure" target="1.8" />
+      <module name="service" target="1.8" />
+      <module name="service-acl" target="1.8" />
+      <module name="service-cms" target="1.8" />
+      <module name="service-msm" target="1.8" />
+      <module name="service-order" target="1.8" />
+      <module name="service-oss" target="1.8" />
+      <module name="service-statistics" target="1.8" />
+      <module name="service-ucenter" target="1.8" />
+      <module name="service-vod" target="1.8" />
+      <module name="service_base" target="1.8" />
+      <module name="service_edu" target="1.8" />
+      <module name="spring-security" target="1.8" />
+      <module name="statistics" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="api-gateway" options="-parameters" />
+      <module name="canal_clientedu" options="-parameters" />
+      <module name="canal_clientedu2" options="-parameters" />
+      <module name="common" options="-parameters" />
+      <module name="common_utils" options="-parameters" />
+      <module name="guli_parent" options="-parameters" />
+      <module name="infrastructure" options="-parameters" />
+      <module name="service" options="-parameters" />
+      <module name="service-acl" options="-parameters" />
+      <module name="service-cms" options="-parameters" />
+      <module name="service-msm" options="-parameters" />
+      <module name="service-order" options="-parameters" />
+      <module name="service-oss" options="-parameters" />
+      <module name="service-statistics" options="-parameters" />
+      <module name="service-ucenter" options="-parameters" />
+      <module name="service-vod" options="-parameters" />
+      <module name="service_base" options="-parameters" />
+      <module name="service_edu" options="-parameters" />
+      <module name="spring-security" options="-parameters" />
+      <module name="statistics" options="-parameters" />
+    </option>
+  </component>
+</project>
